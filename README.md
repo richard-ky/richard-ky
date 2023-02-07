@@ -3,7 +3,6 @@
 <details open>
 <summary>My main languages</summary>
   
-  
 | Rank | Languages |
 |-----:|-----------|
 |     1| Java      |
