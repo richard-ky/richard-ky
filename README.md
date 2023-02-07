@@ -2,11 +2,13 @@
 - I'm interested in natural language processing research
 <details open>
 <summary>My main languages</summary>
+  
 | Rank | Languages |
 |-----:|-----------|
 |     1| Java      |
 |     2| Python    |
 |     3| C         |
+  
 </details>
 
 <!--
