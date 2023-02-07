@@ -2,7 +2,7 @@
 - I'm interested in natural language processing research
 <details open>
 <summary>My main languages</summary>
-  
+<br>
 | Rank | Languages |
 |-----:|-----------|
 |     1| Java      |
