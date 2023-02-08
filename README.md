@@ -1,5 +1,5 @@
 # About me:
-- I'm interested in natural language processing research
+- 🔭 I'm interested in natural language processing research
 <details open>
 <summary>My main languages</summary>
 <br>
