@@ -1,5 +1,5 @@
 # About me:
-- 🔭 I'm interested in natural language processing research
+- 🔭 I am mainly interested in initializing arrays in Java.
 <details open>
 <summary>My main languages</summary>
 <br>
