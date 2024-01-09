@@ -1,5 +1,5 @@
 # About me:
-- 🔭 I am mainly interested in initializing arrays in Java.
+- 🔭 CS student
 <details open>
 <summary>My main languages</summary>
 <br>
