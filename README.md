@@ -1,5 +1,5 @@
 # About me:
-- 🔭 CS student
+- 🔭 Hackathons Attended: TreeHacks 2023, CalHacks 2023, TreeHacks 2024
 <details open>
 <summary>My main languages</summary>
 <br>
