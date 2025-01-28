@@ -1,5 +1,5 @@
 # About me:
-- 🔭 Hackathons Attended: TreeHacks 2023, CalHacks 2023, TreeHacks 2024
+- 🔭 Hackathons Attended: TreeHacks 2023, CalHacks 2023, TreeHacks 2024, UC Berkeley AI 2024
 <details open>
 <summary>My main languages</summary>
 <br>
